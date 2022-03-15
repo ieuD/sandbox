@@ -10,3 +10,6 @@ variable "environment" {
   type = string
 }
 
+variable "sre-aws-mail" {
+  type = string
+}
