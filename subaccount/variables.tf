@@ -4,11 +4,9 @@ variable "org_name" {
 }
 variable "org_account_name"{
   type = string
-  definition = "Organization Account Name."
 }
 
 variable "environment" {
   type = string
-  definition = "Environment name"
 }
 
